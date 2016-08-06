@@ -1,0 +1,25 @@
+{
+  "name": "nflapp",
+  "version": "1.0.0",
+  "description": "nflapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokit2em/sokstuff.git"
+  },
+  "author": "sok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sokit2em/sokstuff/issues"
+  },
+  "homepage": "https://github.com/sokit2em/sokstuff#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "pg-promise": "^5.2.7"
+  }
+}
